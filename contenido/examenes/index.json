@@ -1,0 +1,58 @@
+[
+ {
+  "id": "ex264-1",
+  "titulo": "Convocatoria 2026 (Orden 264/2026) · 1.er ejercicio",
+  "fecha": "18 de octubre de 2026",
+  "n": 35,
+  "ej": 1
+ },
+ {
+  "id": "ex264-2",
+  "titulo": "Convocatoria 2026 (Orden 264/2026) · 2.º ejercicio",
+  "fecha": "18 de octubre de 2026",
+  "n": 35,
+  "ej": 2
+ },
+ {
+  "id": "ex264x-1",
+  "titulo": "Convocatoria 2026 (Orden 264/2026) · llamamiento extraordinario · 1.er ejercicio",
+  "fecha": "10 de noviembre de 2026",
+  "n": 35,
+  "ej": 1
+ },
+ {
+  "id": "ex264x-2",
+  "titulo": "Convocatoria 2026 (Orden 264/2026) · llamamiento extraordinario · 2.º ejercicio",
+  "fecha": "10 de noviembre de 2026",
+  "n": 35,
+  "ej": 2
+ },
+ {
+  "id": "ex1081-1",
+  "titulo": "Convocatoria 2025 (Orden 1081/2025) · 1.er ejercicio",
+  "fecha": "12 de abril de 2026",
+  "n": 35,
+  "ej": 1
+ },
+ {
+  "id": "ex1081-2",
+  "titulo": "Convocatoria 2025 (Orden 1081/2025) · 2.º ejercicio",
+  "fecha": "12 de abril de 2026",
+  "n": 35,
+  "ej": 2
+ },
+ {
+  "id": "ex1942x-1",
+  "titulo": "Convocatoria 2023 (Orden 1942/2023) · llamamiento extraordinario · 1.er ejercicio",
+  "fecha": "febrero de 2025",
+  "n": 33,
+  "ej": 1
+ },
+ {
+  "id": "ex1942x-2",
+  "titulo": "Convocatoria 2023 (Orden 1942/2023) · llamamiento extraordinario · 2.º ejercicio",
+  "fecha": "febrero de 2025",
+  "n": 29,
+  "ej": 2
+ }
+]

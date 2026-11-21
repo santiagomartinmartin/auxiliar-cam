@@ -1,0 +1,233 @@
+[
+ {
+  "n": 1,
+  "g": "I",
+  "t": "La Constitución Española de 1978",
+  "prog": "La Constitución Española de 1978: Características. Los principios constitucionales y los valores superiores. Derechos y deberes fundamentales. Su garantía y suspensión.",
+  "norma": "Constitución Española de 1978",
+  "ok": true,
+  "tq": true,
+  "nq": 109,
+  "nex": 9
+ },
+ {
+  "n": 2,
+  "g": "I",
+  "t": "El Estatuto de Autonomía y la Asamblea de Madrid",
+  "prog": "El Estatuto de Autonomía de la Comunidad de Madrid: Estructura y contenido. Las competencias de la Comunidad de Madrid: Potestad legislativa, potestad reglamentaria y función ejecutiva. La Asamblea de Madrid: Composición, elección y funciones.",
+  "norma": "Estatuto de Autonomía (LO 3/1983)",
+  "ok": true,
+  "tq": true,
+  "nq": 86,
+  "nex": 11
+ },
+ {
+  "n": 3,
+  "g": "I",
+  "t": "Ley de Gobierno y Administración de la Comunidad de Madrid",
+  "prog": "La Ley de Gobierno y Administración de la Comunidad de Madrid: Estructura y contenido. El Gobierno de la Comunidad de Madrid. Organización y estructura básica de las Consejerías. La Administración Institucional de la Comunidad de Madrid.",
+  "norma": "Ley 1/1983 y Ley 1/1984 de la Comunidad de Madrid",
+  "ok": true,
+  "tq": true,
+  "nq": 51,
+  "nex": 8
+ },
+ {
+  "n": 4,
+  "g": "I",
+  "t": "Las fuentes del ordenamiento jurídico",
+  "prog": "Las fuentes del ordenamiento jurídico. La Constitución. Las Leyes: Concepto y clases. Las disposiciones del ejecutivo con fuerza de Ley: Decretos-leyes y Decretos legislativos. Los reglamentos: Concepto y clases. Otras fuentes.",
+  "norma": "Constitución, Código Civil (art. 1) y Ley 39/2015 (arts. 127-133)",
+  "ok": true,
+  "tq": true,
+  "nq": 110,
+  "nex": 10
+ },
+ {
+  "n": 5,
+  "g": "I",
+  "t": "El acto administrativo, la revisión y los recursos",
+  "prog": "El acto administrativo: Características generales. Requisitos. Eficacia. Actos nulos y anulables. La revisión de los actos administrativos. Los recursos administrativos: Concepto y clases. Responsabilidad de las autoridades y personal al servicio de las Administraciones Públicas.",
+  "norma": "Ley 39/2015 y Ley 40/2015",
+  "ok": true,
+  "tq": true,
+  "nq": 180,
+  "nex": 12
+ },
+ {
+  "n": 6,
+  "g": "I",
+  "t": "La Ley 39/2015: el procedimiento administrativo común",
+  "prog": "La Ley del Procedimiento Administrativo Común de las Administraciones Públicas: Objeto y ámbito de aplicación. Fases del procedimiento: Iniciación, ordenación, instrucción y finalización.",
+  "norma": "Ley 39/2015",
+  "ok": true,
+  "tq": true,
+  "nq": 198,
+  "nex": 13
+ },
+ {
+  "n": 7,
+  "g": "I",
+  "t": "La Jurisdicción Contencioso-Administrativa",
+  "prog": "La Jurisdicción Contencioso-Administrativa: Su organización. Las partes. Actos impugnables. Las fases principales del procedimiento contencioso-administrativo.",
+  "norma": "Ley 29/1998 (LJCA)",
+  "ok": true,
+  "tq": true,
+  "nq": 55,
+  "nex": 8
+ },
+ {
+  "n": 8,
+  "g": "I",
+  "t": "Transparencia y protección de datos",
+  "prog": "La Ley 19/2013, de 9 de diciembre, de transparencia, acceso a la información pública y buen gobierno: ámbito de actuación, publicidad activa y derecho de acceso a la información pública. Especial referencia a la Comunidad de Madrid. Ley Orgánica 3/2018, de 5 de diciembre, de Protección de Datos Personales y garantía de los derechos digitales: principios y derechos de las personas. Referencia al Delegado de Protección de Datos, y al responsable y encargado del tratamiento. Especialidades en el Sector Público.",
+  "norma": "Ley 19/2013, Ley 10/2019 (Madrid), RGPD y LO 3/2018",
+  "ok": true,
+  "tq": true,
+  "nq": 317,
+  "nex": 9
+ },
+ {
+  "n": 9,
+  "g": "I",
+  "t": "Los contratos del sector público",
+  "prog": "Los contratos en el Sector Público: Elementos comunes a todos los contratos. Tipos de contratos: Características principales. Procedimientos de contratación y formas de adjudicación: Aspectos principales.",
+  "norma": "Ley 9/2017 (LCSP)",
+  "ok": true,
+  "tq": true,
+  "nq": 166,
+  "nex": 8
+ },
+ {
+  "n": 10,
+  "g": "I",
+  "t": "El TREBEP y la Función Pública de la Comunidad de Madrid",
+  "prog": "El Texto Refundido de la Ley del Estatuto Básico del Empleado Público. Personal al servicio de las Administraciones Públicas. Adquisición y pérdida de la condición de funcionario. Derechos, deberes e incompatibilidades. Situaciones administrativas. Sistema de retribuciones. Régimen disciplinario. Especial referencia a la Ley de la Función Pública de la Comunidad de Madrid.",
+  "norma": "RDL 5/2015 (TREBEP) y Ley 1/1986 de Función Pública de Madrid",
+  "ok": true,
+  "tq": true,
+  "nq": 110,
+  "nex": 10
+ },
+ {
+  "n": 11,
+  "g": "I",
+  "t": "La Seguridad Social",
+  "prog": "La Seguridad Social: Características generales y principales Entidades gestoras. Afiliación, cotización y recaudación. Acción protectora: Contingencias y prestaciones.",
+  "norma": "RDL 8/2015 (Ley General de la Seguridad Social)",
+  "ok": true,
+  "tq": true,
+  "nq": 54,
+  "nex": 11
+ },
+ {
+  "n": 12,
+  "g": "I",
+  "t": "La Ley de Hacienda de la Comunidad de Madrid",
+  "prog": "La Ley de Hacienda de la Comunidad de Madrid: Disposiciones Generales. Régimen Presupuestario.",
+  "norma": "Ley 5/2025 de Hacienda de la Comunidad de Madrid",
+  "ok": true,
+  "tq": true,
+  "nq": 58,
+  "nex": 7
+ },
+ {
+  "n": 13,
+  "g": "I",
+  "t": "Igualdad, violencia de género y personas LGTBI",
+  "prog": "El principio de igualdad entre mujeres y hombres. La tutela contra la discriminación. El marco normativo de la igualdad de género, la protección integral contra la violencia de género y no discriminación de las personas LGTBI. Especial referencia a la Comunidad de Madrid.",
+  "norma": "LO 3/2007, LO 1/2004, Ley 15/2022, Ley 4/2023 y leyes de la Comunidad de Madrid",
+  "ok": true,
+  "tq": true,
+  "nq": 111,
+  "nex": 8
+ },
+ {
+  "n": 14,
+  "g": "I",
+  "t": "Atención al ciudadano y administración electrónica",
+  "prog": "Información administrativa y atención al ciudadano en la Comunidad de Madrid en los canales presencial, electrónico y telefónico. La Administración electrónica. La identificación y autenticación de las personas físicas y jurídicas para las diferentes actuaciones en la gestión electrónica. Especial referencia a la Administración electrónica en la Comunidad de Madrid.",
+  "norma": "Decreto 21/2002, Ley 39/2015 y normativa de administración electrónica de Madrid",
+  "ok": true,
+  "tq": true,
+  "nq": 42,
+  "nex": 7
+ },
+ {
+  "n": 15,
+  "g": "I",
+  "t": "Documentos, registro y archivo",
+  "prog": "Los documentos administrativos: Concepto, funciones, clasificación y características. Especial referencia al documento electrónico. El registro de documentos: Concepto y funciones. Presentación, recepción, entrada y salida de documentos. El archivo de documentos: Concepto y funciones. Clases de archivo y criterios de ordenación. El acceso a los documentos administrativos: Sus limitaciones y formas de acceso.",
+  "norma": "Ley 39/2015 y Ley 6/2023 de Archivos y Documentos de la Comunidad de Madrid",
+  "ok": true,
+  "tq": true,
+  "nq": 48,
+  "nex": 7
+ },
+ {
+  "n": 16,
+  "g": "II",
+  "t": "El Explorador de Windows",
+  "prog": "El explorador de Windows. Gestión de carpetas y archivos. Operaciones de búsqueda. Herramientas «Este equipo» y «Acceso rápido». Accesorios. Herramientas del sistema.",
+  "norma": "Windows 11",
+  "ok": true,
+  "tq": true,
+  "nq": 49,
+  "nex": 23
+ },
+ {
+  "n": 17,
+  "g": "II",
+  "t": "Word",
+  "prog": "Procesadores de texto: Word. Principales funciones y utilidades. Creación y estructuración del documento. Gestión, grabación, recuperación e impresión de ficheros. Personalización del entorno de trabajo.",
+  "norma": "Word (Microsoft 365, escritorio)",
+  "ok": true,
+  "tq": true,
+  "nq": 47,
+  "nex": 23
+ },
+ {
+  "n": 18,
+  "g": "II",
+  "t": "Excel",
+  "prog": "Hojas de cálculo: Excel. Principales funciones y utilidades. Libros, hojas y celdas. Configuración. Introducción y edición de datos. Fórmulas y funciones. Tablas dinámicas. Gráficos. Gestión de datos. Personalización del entorno de trabajo.",
+  "norma": "Excel (Microsoft 365, escritorio)",
+  "ok": true,
+  "tq": true,
+  "nq": 50,
+  "nex": 24
+ },
+ {
+  "n": 19,
+  "g": "II",
+  "t": "Access y Power BI",
+  "prog": "Bases de datos: Access. Principales funciones y utilidades. Tablas. Consultas. Formularios. Informes. Relaciones. Importación, vinculación y exportación de datos. Power BI.",
+  "norma": "Access (Microsoft 365, escritorio) y Power BI",
+  "ok": true,
+  "tq": true,
+  "nq": 52,
+  "nex": 23
+ },
+ {
+  "n": 20,
+  "g": "II",
+  "t": "Outlook",
+  "prog": "Correo electrónico: Outlook. Conceptos elementales y funcionamiento. Enviar, recibir, responder y reenviar mensajes. Creación de mensajes. Reglas de mensaje. Libreta de direcciones. Agenda. Convocatorias y citas.",
+  "norma": "Outlook (Microsoft 365, escritorio)",
+  "ok": true,
+  "tq": true,
+  "nq": 48,
+  "nex": 24
+ },
+ {
+  "n": 21,
+  "g": "II",
+  "t": "Trabajo colaborativo en Microsoft 365",
+  "prog": "Trabajo colaborativo: herramientas y funcionalidades. Microsoft 365: Teams, Sharepoint, OneDrive y Outlook. Videoconferencias.",
+  "norma": "Teams, SharePoint, OneDrive y Outlook (Microsoft 365)",
+  "ok": true,
+  "tq": true,
+  "nq": 41,
+  "nex": 17
+ }
+]
